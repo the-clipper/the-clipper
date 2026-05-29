@@ -14,8 +14,8 @@ Security researcher. OSINT practitioner. Network recon enthusiast. I build open-
 An open-source framework combining web scraping, network recon, people intelligence aggregation, and threat analysis into a single platform. Plugin-driven architecture, cyberpunk UI, CLI + web interface.
 
 [![Site](https://img.shields.io/badge/site-owlrecon.io-00f3ff?style=flat-square)](https://owlrecon.io)
-[![Repo](https://img.shields.io/badge/github-nightowl-b026ff?style=flat-square&logo=github)](https://github.com/the-clipper/nightowl)
-[![License](https://img.shields.io/badge/license-MIT-00ff41?style=flat-square)](https://github.com/the-clipper/nightowl/blob/main/LICENSE)
+[![Repo](https://img.shields.io/badge/github-nightowl-b026ff?style=flat-square&logo=github)](https://github.com/nightowl-osint/nightowl)
+[![License](https://img.shields.io/badge/license-MIT-00ff41?style=flat-square)](https://github.com/nightowl-osint/nightowl/blob/main/LICENSE)
 
 ---
 
